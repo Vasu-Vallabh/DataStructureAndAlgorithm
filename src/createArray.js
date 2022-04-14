@@ -52,3 +52,5 @@ vArray.push("S");
 vArray.push("U");
 vArray.delete(3);
 console.log(vArray);
+
+export default myArray;
